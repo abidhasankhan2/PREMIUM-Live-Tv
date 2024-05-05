@@ -268,31 +268,31 @@ http://xtv.ooo:8080/Sehrish/12345/245893
 https://ythls.armelin.one/channel/UC2t9imwIR7xlDfma3CmRKJQ.m3u8
 
 #EXTINF:-90 tvg-logo="https://i.ibb.co/84P/202430-2213.png"group-title="SPORTS CHANNEL", T SPORTS HD
-http://xtv.ooo:8080/Sehrish/12345/245893p
+http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-91 tvg-logo="https://i.ibb.co/84P/202430-2213.png"group-title="SPORTS CHANNEL", T SPORTS HD
 https://live-cdn.tsports.com/live-02/index.m3u8
 
 #EXTINF:-92 tvg-logo="https://i.ibb.co/GT7K/202401-2145.png"group-title="SPORTS CHANNEL", GAZI SPORTS
-http://xtv.ooo:8080/Sehrish/12345/245901
+http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-93 tvg-logo="https://i.ibb.co/XYsN/202402-0756.png"group-title="SPORTS CHANNEL", STAR SPORTS 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=155966&extension=ts
 
 #EXTINF:-94 tvg-logo="https://i.ibb.co/L6n5/202402-0757.png"group-title="SPORTS CHANNEL", STAR SPORTS 2
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=282674&extension=ts
 
 #EXTINF:-95 tvg-logo="https://i.ibb.co/3YGh/202402-0757.png"group-title="SPORTS CHANNEL", STAR SPORTS 3
 http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-96 tvg-logo="https://i.ibb.co/Cm2L/202430-2040.png"group-title="SPORTS CHANNEL", SONY SPORTS 1
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156017&extension=ts
 
 #EXTINF:-97 tvg-logo="https://i.ibb.co/pzC7/202430-2041.png"group-title="SPORTS CHANNEL", SONY SPORTS 2
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156010&extension=ts
 
 #EXTINF:-96 tvg-logo="https://i.ibb.co/fx/202430-2042.png"group-title="SPORTS CHANNEL", SONY SPORTS 3
-http://xtv.ooo:8080/Sehrish/12345/245893
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=156024&extension=ts
 
 #EXTINF:-97 tvg-logo="https://i.ibb.co//202430-2219.png"group-title="SPORTS CHANNEL", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
