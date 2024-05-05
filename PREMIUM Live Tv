@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bc7/2404-2051.png"group-title="BANGLADASHI CHANNEL", BTV HD
-http://xtv.ooo:8080/Sehrish/12345/245930
+http://103.145.232.246/Data/movies/indianbangla/new/Projapati%20(2022)/Projapati.mp4
 
 #EXTINF:-2 tvg-logo="https://i.ibco/6vFt/202404-2304.png"group-title="BANGLADASHI CHANNEL", BTV WORLD
 http://xtv.ooo:8080/Sehrish/12345/245922
