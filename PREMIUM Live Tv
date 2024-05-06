@@ -324,6 +324,9 @@ http://xtv.ooo:8080/Sehrish/12345/245893
 #EXTINF:-107 tvg-logo="https://i.ibb.co/mT9/202401-2153.png"group-title="SPORTS CHANNEL", WILLOW HD
 http://xtv.ooo:8080/Sehrish/12345/245893
 
+#EXTINF:-1 tvg-logo="https://www.collectcent.com/img/brands-cpi/74.png"group-title="sports", Bangladesh VS Zimbabwe
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc_video_5_0_13282742.mp4?m=1687429753
+
 #EXTINF:-108 tvg-logo="https://i.ibb.co/bdSQ/202401-2120.png"group-title="SPORTS CHANNEL", DUBAI SPORTS 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 
